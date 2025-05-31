@@ -96,12 +96,12 @@ Write a C program to print the given triangular pattern using loop.
 
 
 ## OUTPUT:
-Enter the number of rows: 5
-* 
-* * 
-* * * 
-* * * * 
-* * * * * 
+        Enter the number of rows: 5
+        * 
+        * * 
+        * * * 
+        * * * * 
+        * * * * * 
 
 
 
